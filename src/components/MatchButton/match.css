@@ -1,0 +1,19 @@
+.match-btn {
+  padding: 12px 26px;
+  border-radius: 999px;
+  border: none;
+  background: #0f172a;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.match-btn:hover:not(:disabled) {
+  background: #020617;
+}
+
+.match-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

@@ -1,0 +1,33 @@
+.result-container {
+  background: #ffffff;
+  border-radius: 14px;
+  padding: 24px;
+  width: 100%;
+  max-width: 520px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  border: 1px solid #e2e8f0;
+}
+
+.result-title {
+  font-size: 22px;
+  font-weight: 600;
+  color: #0f172a;
+  text-align: center;
+}
+
+.result-score {
+  font-size: 42px;
+  font-weight: 700;
+  text-align: center;
+  color: #16a34a; /* green = good match */
+}
+
+.result-subtext {
+  font-size: 14px;
+  text-align: center;
+  color: #475569;
+}

@@ -1,0 +1,46 @@
+Role Overview
+We are looking for a Full Stack Developer to design and build an AI-driven Resume–Job Description Matching platform that automates candidate screening and improves hiring efficiency using modern web technologies and AI-based text analysis.
+
+Key Responsibilities
+
+Develop an end-to-end web application that analyzes resumes and job descriptions to calculate match scores.
+
+Design and implement RESTful APIs using Node.js and Express for resume upload, parsing, and scoring.
+
+Build an intuitive frontend using React.js for displaying match results, insights, and analytics.
+
+Implement resume parsing logic to extract skills, experience, and keywords from PDF/DOC files.
+
+Integrate AI/NLP techniques to compare resumes against job descriptions and generate similarity scores.
+
+Manage file uploads securely and handle backend data processing efficiently.
+
+Optimize application performance and ensure scalability.
+
+Debug, test, and deploy the application for real-world usage.
+
+Required Skills
+
+JavaScript, HTML, CSS
+
+React.js (Frontend development)
+
+Node.js & Express.js (Backend development)
+
+REST APIs
+
+Resume parsing / text processing
+
+Basic understanding of AI/NLP concepts
+
+Git & version control
+
+Good to Have
+
+Experience with AI APIs or embeddings
+
+Familiarity with cloud deployment (Render, Vercel, AWS, etc.)
+
+MongoDB or similar databases
+
+Authentication and security best practices
